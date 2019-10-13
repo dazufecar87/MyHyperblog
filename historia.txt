@@ -1,10 +1,5 @@
 Hola soy Daniel Felipe Zuluaga Cardenas
 
-Tengo 32 años y soy de Cali Colombia,
-viviendo en todo el mundo
+Tengo 32 años y soy de Cali Colombia
 
-Amo la ciencia de datos y la programacion
-
-Hoy esta super dedicado a desempenarse como data scientist
-
-Hablaremos de su vida y obra maestra
+Manana nos enfocaremos en su vida laboral
