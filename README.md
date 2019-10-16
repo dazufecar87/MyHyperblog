@@ -6,5 +6,5 @@ This repository is part of my practice doing the Git and GitHub course on Platzi
 - a plain text file (**historia.html**).
 - a .gitignore file.
 - a readme.md.
-- apart from creting these files, I had the chance to apply git commands, use my local and remote repositories, as well as fork repositories from others.
+- apart from creating these files, I had the chance to apply git commands, use my local and remote repositories, as well as fork repositories from others.
 - from this course I learned the general flow of projects using git and gitHub.
